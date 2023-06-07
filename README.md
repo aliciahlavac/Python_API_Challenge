@@ -1,6 +1,6 @@
 # Python_API_Challenge
 
-In this repo, there are two folders. One is VacationPy and the other is WeatherPy.  Each of these folders have a Jupyter Notebook inside them; VacationPy.ipynb and WeatherPy.ipynb, respectively. You should run the Jupyter Notebook in WeatherPy first (WeatherPy.ipynb), as VacationPy.ipynb uses data created in WeatherPy.ipynb.
+In this repo, there are two folders. One is VacationPy and the other is WeatherPy.  Each of these folders have a Jupyter Notebook inside them; VacationPy.ipynb and WeatherPy.ipynb, respectively. You should run the Jupyter Notebook in WeatherPy first (WeatherPy.ipynb), as VacationPy.ipynb uses data created in WeatherPy.ipynb.  In addition, a folder called output_data should exist outside of the VacationPy and WeatherPy folders, as figures and a .csv file get created there, and VacationPy.ipynb uses data from this folder. 
 
 This project examined the weather and its changes as its location became closer to and further from the equator.  Relationships such as latitude versus temperature, latitude versus humidity, latitude versus cloudiness, and latitude versus wind speed were examined.  Both the Northern and Southern hemispheres were examined. 
 
